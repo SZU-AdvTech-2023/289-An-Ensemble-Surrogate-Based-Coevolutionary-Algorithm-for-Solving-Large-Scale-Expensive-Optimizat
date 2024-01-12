@@ -1,0 +1,9 @@
+@article{REPO289,
+    author = "Wu, Xunfeng and Lin, Qiuzhen and Li, Jianqiang and Tan, Kay Chen and Leung, Victor C. M.",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "9",
+    pages = "5854-5866",
+    title = "{An Ensemble Surrogate-Based Coevolutionary Algorithm for Solving Large-Scale Expensive Optimization Problems}",
+    volume = "53",
+    year = "2023"
+}
